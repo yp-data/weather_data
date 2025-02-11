@@ -1,4 +1,4 @@
-Weather Data Dashboard
+Basic Weather Data Extraction
 
 Project Overview
 ----------------
